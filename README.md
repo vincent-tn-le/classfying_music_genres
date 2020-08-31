@@ -1,2 +1,2 @@
-# classfying_music_genres
-classifying music genres
+# Classfying_Music_Genres
+Training classifier on popular spotify playlists
